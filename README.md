@@ -17,11 +17,11 @@ Deployment: Making predictions and saving the trained model for future use.
 How to Explore the Project
 If you're interested in exploring the project, here's how you can get started:
 
-### Data Exploration: Start by reviewing the data exploration notebook. This will give you insights into the dataset and the key features that influence survival.
+Data Exploration: Start by reviewing the data exploration notebook. This will give you insights into the dataset and the key features that influence survival.
 
-### Model Training: Move to the model training notebook to see how the Random Forest model is developed. You can follow along with the code, experiment with different hyperparameters, and see how the model performs.
+Model Training: Move to the model training notebook to see how the Random Forest model is developed. You can follow along with the code, experiment with different hyperparameters, and see how the model performs.
 
-### Making Predictions: Use the trained model to predict the test dataset. You can also explore how the model can be improved further.
+Making Predictions: Use the trained model to predict the test dataset. You can also explore how the model can be improved further.
 
 # Key Resources
 Titanic Dataset: You can download the dataset from Kaggle and place it in the data/ folder.
