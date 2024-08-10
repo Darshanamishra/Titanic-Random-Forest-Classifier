@@ -22,8 +22,3 @@ Data Exploration: Start by reviewing the data exploration notebook. This will gi
 Model Training: Move to the model training notebook to see how the Random Forest model is developed. You can follow along with the code, experiment with different hyperparameters, and see how the model performs.
 
 Making Predictions: Use the trained model to predict the test dataset. You can also explore how the model can be improved further.
-
-# Key Resources
-Titanic Dataset: You can download the dataset from Kaggle and place it in the data/ folder.
-Jupyter Notebooks: The project includes notebooks for data exploration, preprocessing, and model training.
-Python Scripts: For those who prefer scripts, the src/ directory contains Python scripts for various tasks in the project.
