@@ -1,5 +1,6 @@
-Titanic Survival Prediction Machine Learning Project
-Welcome to the Titanic Survival Prediction project! This project is a machine learning initiative where we utilize the Random Forest algorithm to predict which passengers on the Titanic were likely to survive the tragic event.
+**Welcome to the Titanic Survival Prediction project! **
+
+This project is a machine learning initiative where we utilize the Random Forest algorithm to predict which passengers on the Titanic were likely to survive the tragic event.
 
 Overview
 The Titanic dataset is a classic problem for data scientists, often used to demonstrate various data analysis and machine learning techniques. In this project, we explore the dataset, clean the data, engineer features, and develop a predictive model to determine the survival of passengers.
