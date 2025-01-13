@@ -1,5 +1,5 @@
 # Welcome to the Titanic Survival Prediction project!
-
+  
 This project is a machine learning initiative where we utilize the Random Forest algorithm to predict which passengers on the Titanic were likely to survive the tragic event.       
 
 ### Overview
